@@ -121,4 +121,14 @@ This combines ping + traceroute in one tool.
 ## Cleanup
 No cleanup needed.
 ---
+## Screenshots
+
+### Ping Test
+![Ping Results](screenshots/Screenshot%20(10).png)
+
+### Traceroute to Google
+![Traceroute Google](screenshots/Screenshot%20(11).png)
+
+### Traceroute to Cloudflare
+![Traceroute Cloudflare](screenshots/Screenshot%20(12).png)
 
