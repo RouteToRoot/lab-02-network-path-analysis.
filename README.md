@@ -124,11 +124,10 @@ No cleanup needed.
 ## Screenshots
 
 ### Ping Test
-![Ping Results](screenshots/Screenshot%20(10).png)
+![Ping Results](screenshots/Screenshot%2010.png)
 
 ### Traceroute to Google
-![Traceroute Google](screenshots/Screenshot%20(11).png)
+![Traceroute Google](screenshots/Screenshot%2011.png)
 
 ### Traceroute to Cloudflare
-![Traceroute Cloudflare](screenshots/Screenshot%20(12).png)
-
+![Traceroute Cloudflare](screenshots/Screenshot%2012.png)
