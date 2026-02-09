@@ -124,6 +124,8 @@ No cleanup needed.
 
 ## Screenshots
 
+## Screenshots
+
 ### Ping Test
 ![Ping Results](screenshots/Screenshot (10).png)
 
