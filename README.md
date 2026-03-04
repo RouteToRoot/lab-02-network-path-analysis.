@@ -132,3 +132,15 @@ No cleanup needed.
 ### Traceroute to Cloudflare
 ![Traceroute Cloudflare](screenshots/Screenshot%20%2812%29.png)
 
+---
+
+## Next Steps
+
+To continue building network investigation skills:
+
+- **SOC Lab 03 — DNS Resolution & Caching**
+- Examine how domain names are resolved into IP addresses
+- Compare responses across different DNS resolvers
+- Observe caching behavior and TTL values in DNS queries
+
+Understanding DNS behavior is critical for detecting malicious domains and command-and-control activity.
